@@ -157,7 +157,7 @@ Utilizo a programação para aprender, experimentar ideias e desenvolver projeto
 
   <br>
 
-  <sub>Feito com curiosidade, criatividade e código.</sub>
+  <sub>Programar é dificil 😭 mas nós tenta né.</sub>
 
   <br>
 
