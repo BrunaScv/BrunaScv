@@ -8,8 +8,22 @@
 </div>
 ---
 ## `01` — Sobre mim
-```pythonclass Bruna:    def __init__(self):        self.nome = "Bruna de Souza"        self.area = "Técnico em Informática"        self.instituicao = "IFC"        self.tecnologias = [            "Python",            "HTML",            "CSS",            "Java",            "JavaScript"        ]
-    def objetivo(self):        return "Aprender, experimentar e desenvolver."
+```python
+class Bruna:    
+     def __init__(self):        
+     self.nome = "Bruna de Souza"       
+     self.area = "Técnico em Informática"        
+     self.instituicao = "IFC"        
+     self.tecnologias = [            
+            "Python",
+            "HTML",
+            "CSS",           
+            "Java",            
+            "JavaScript"       
+            ]
+    def objetivo(self):        
+    return "Aprender, experimentar e desenvolver."
+    
 Sou estudante de Técnico em Informática no IFC e utilizo a programação para aprender, experimentar ideias e desenvolver projetos.
 Este perfil reúne alguns dos meus trabalhos e experiências com diferentes tecnologias. Cada repositório representa uma oportunidade de explorar possibilidades, resolver problemas e evoluir na prática.
 <div align="center">curiosidade > medo de errar
