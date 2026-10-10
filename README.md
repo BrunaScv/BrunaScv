@@ -8,9 +8,9 @@
 
 <br>
 
-✦ Estudante de **Técnico em Informática no IFC** ✦
+✦ Estudante do **Técnico em Informática no IFC** ✦
 
-Gosto de explorar ideias, aprender novas tecnologias e transformar um pouco de curiosidade em projetos. Ainda estou construindo minha jornada na programação — um código de cada vez.
+Gosto de explorar coisas novas, aprender novas tecnologias e transformar um pouco de curiosidade em projetos. Ainda estou construindo minha jornada na programação — um código de cada vez.
 
 <br>
 
@@ -76,7 +76,7 @@ Gosto de explorar ideias, aprender novas tecnologias e transformar um pouco de c
 
 <br>
 
-<sub>✧ Ainda há muito para descobrir. Nos vemos do outro lado do código. ✧</sub>
+<sub>✧ Ainda há muito para descobrir. Nos vemos do outro lado do código 😉 . ✧</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:17162B,25:694C78,50:F28B72,75:F6BC87,100:A99BEF" width="100%" />
 
