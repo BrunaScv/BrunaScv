@@ -64,11 +64,8 @@ Gosto de explorar ideias, aprender novas tecnologias e transformar um pouco de c
 
 <br>
 
-<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaScv&theme=github-compact" alt="Gráfico de atividade do GitHub" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaScv&bg_color=17162B&color=E8DFF0&line=F28B72&point=F6BC87&area=true&hide_border=true&custom_title=Minha%20atividade%20por%20aqui" alt="Gráfico de atividade do GitHub" />
-
-</div>
 </div>
 
 ---
