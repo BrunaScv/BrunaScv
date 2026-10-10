@@ -63,9 +63,6 @@ Gosto de explorar ideias, aprender novas tecnologias e transformar um pouco de c
 <img width="70%" src="https://streak-stats.demolab.com?user=BrunaScv&hide_border=true&background=17162B&ring=F28B72&fire=F6BC87&currStreakLabel=E9A8D4&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=A99BEF&dates=9A91AA" alt="Sequência de contribuições" />
 
 <br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaScv&theme=github-compact" alt="Gráfico de atividade do GitHub" />
-
 </div>
 
 ---
