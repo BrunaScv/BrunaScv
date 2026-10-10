@@ -1,212 +1,94 @@
-<!--
-  BRUNA DE SOUZA
-  DELTARUNE-INSPIRED PROFILE
-  Dark fantasy • Pixel RPG • Purple atmosphere
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=12&color=51258C" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:17162B,25:694C78,50:F28B72,75:F6BC87,100:A99BEF&text=Bruna%20de%20Souza&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Um%20pouco%20de%20c%C3%B3digo,%20um%20pouco%20de%20caos.&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
 <br>
 
-<pre>
-██████╗ ██████╗ ██╗   ██╗███╗   ██╗ █████╗
-██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔══██╗
-██████╔╝██████╔╝██║   ██║██╔██╗ ██║███████║
-██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██╔══██║
-██████╔╝██║  ██║╚██████╔╝██║ ╚████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-</pre>
-
-### ✦ A NEW WORLD AWAITS ✦
-
-`ESTUDANTE DE TÉCNICO EM INFORMÁTICA • IFC`
-
-[ GitHub ](https://github.com/BrunaScv)　✦　[ Instagram ](https://www.instagram.com/brun_ascv/)
-
-<img src="https://img.shields.io/badge/STATUS-EXPLORING-51258C?style=flat-square" alt="Status: explorando"/> <img src="https://img.shields.io/badge/CLASS-PROGRAMMER-17131F?style=flat-square" alt="Classe: programadora"/>
-
-</div>
-
----
-
-## ▸ 01. THE BEGINNING
-
-> *Uma porta se abre na escuridão...*
-
-Olá! Eu sou **Bruna de Souza**, estudante de Técnico em Informática no IFC.
-
-Este é o meu pequeno canto do mundo digital: um lugar para reunir meus projetos, experimentar tecnologias e aprender um pouco mais a cada linha de código.
-
-Ainda há muito para explorar. Afinal, toda jornada começa em algum lugar.
-
-<div align="center">
-
-`[ PRESS ENTER TO CONTINUE ]`
-
-</div>
-
----
-
-## ▸ 02. SKILL TREE
-
-*Habilidades desbloqueadas durante a jornada.*
-
-<div align="center">
-
-| Habilidade | Tecnologia |
-|:---:|:---|
-| `01` | ![Python](https://img.shields.io/badge/Python-201A2C?style=flat-square&logo=python&logoColor=BCA7FF) |
-| `02` | ![HTML5](https://img.shields.io/badge/HTML5-201A2C?style=flat-square&logo=html5&logoColor=FF9966) |
-| `03` | ![CSS3](https://img.shields.io/badge/CSS3-201A2C?style=flat-square&logo=css3&logoColor=91A8FF) |
-| `04` | ![Java](https://img.shields.io/badge/Java-201A2C?style=flat-square&logo=openjdk&logoColor=FFCC88) |
-| `05` | ![JavaScript](https://img.shields.io/badge/JavaScript-201A2C?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-
-</div>
-
----
-
-## ▸ 03. SAVE FILES
-
-*Cada projeto guarda uma parte da jornada.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ♠ Free Fire in Python
-
-Um projeto desenvolvido em Python.
-
-[ `▶ OPEN SAVE FILE` ](https://github.com/BrunaScv/Free-fire-in-Python)
-
-</td>
-<td width="50%" valign="top">
-
-### ♣ Garatuja
-
-Um repositório para organização de ideias.
-
-[ `▶ OPEN SAVE FILE` ](https://github.com/BrunaScv/Garatuja1)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♦ Programação I
-
-Atividades de programação.
-
-[ `▶ OPEN SAVE FILE` ](https://github.com/BrunaScv/Prog1.tri2.ativ3)
-
-</td>
-<td width="50%" valign="top">
-
-### ♥ Trabalho PPO
-
-Projeto acadêmico.
-
-[ `▶ OPEN SAVE FILE` ](https://github.com/BrunaScv/Trabalho-PPO)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✦ Digital Circus Web
-
-Projeto web desenvolvido com foco em CSS.
-
-[ `▶ OPEN SAVE FILE` ](https://github.com/BrunaScv/PPO-2---Digital-Circus-Web)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[ **VIEW ALL REPOSITORIES** ](https://github.com/BrunaScv?tab=repositories)
-
-</div>
-
----
-
-## ▸ 04. PLAYER STATUS
-
-*Os números contam histórias. A jornada continua.*
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BrunaScv&show_icons=true&hide_border=true&bg_color=17131F&title_color=BCA7FF&icon_color=8E65D8&text_color=E6DFF5" alt="GitHub Stats" width="95%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F28B72&center=true&vCenter=true&width=500&lines=Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Aprendendo%2C+criando+e+experimentando;Cada+projeto+tem+sua+pr%C3%B3pria+hist%C3%B3ria..." alt="Texto animado" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaScv&layout=compact&hide_border=true&bg_color=17131F&title_color=BCA7FF&text_color=E6DFF5" alt="Linguagens mais utilizadas" width="75%"/>
+✦ Estudante de **Técnico em Informática no IFC** ✦
+
+Gosto de explorar ideias, aprender novas tecnologias e transformar um pouco de curiosidade em projetos. Ainda estou construindo minha jornada na programação — um código de cada vez.
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=BrunaScv&theme=dark&hide_border=true&background=17131F&ring=BCA7FF&fire=8E65D8&currStreakLabel=BCA7FF&sideLabels=E6DFF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0BA" alt="Sequência de contribuições" width="95%"/>
-
 </div>
 
 ---
 
-## ▸ 05. WORLD ACTIVITY
-
-*Cada contribuição deixa um rastro.*
+### ☼ O que uso por aqui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaScv&bg_color=17131F&color=BCA7FF&line=8E65D8&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" width="100%"/>
+![Python](https://img.shields.io/badge/Python-17162B?style=flat-square&logo=python&logoColor=F6BC87)
+![HTML5](https://img.shields.io/badge/HTML5-17162B?style=flat-square&logo=html5&logoColor=F28B72)
+![CSS3](https://img.shields.io/badge/CSS3-17162B?style=flat-square&logo=css3&logoColor=A99BEF)
+![Java](https://img.shields.io/badge/Java-17162B?style=flat-square&logo=openjdk&logoColor=E9A8D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-17162B?style=flat-square&logo=javascript&logoColor=F6BC87)
 
 </div>
 
----
-
-## ▸ 06. ACHIEVEMENTS
+### ✧ Coisas que já criei
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BrunaScv&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=3" alt="Conquistas do GitHub" width="100%"/>
+[![Free Fire in Python](https://img.shields.io/badge/Free%20Fire%20in%20Python-694C78?style=for-the-badge&logo=python&logoColor=white)](https://github.com/BrunaScv/Free-fire-in-Python)
+[![Garatuja](https://img.shields.io/badge/Garatuja-F28B72?style=for-the-badge&logo=github&logoColor=17162B)](https://github.com/BrunaScv/Garatuja1)
+
+[![Prog1 — Atividade 3](https://img.shields.io/badge/Prog1%20%7C%20Atividade%203-A99BEF?style=for-the-badge&logo=github&logoColor=17162B)](https://github.com/BrunaScv/Prog1.tri2.ativ3)
+[![Trabalho PPO](https://img.shields.io/badge/Trabalho%20PPO-E9A8D4?style=for-the-badge&logo=github&logoColor=17162B)](https://github.com/BrunaScv/Trabalho-PPO)
+
+[![PPO 2 — Digital Circus Web](https://img.shields.io/badge/PPO%202%20%7C%20Digital%20Circus%20Web-F6BC87?style=for-the-badge&logo=html5&logoColor=17162B)](https://github.com/BrunaScv/PPO-2---Digital-Circus-Web)
 
 </div>
 
----
-
-## ▸ 07. THE PATH YOU LEAVE BEHIND
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunaScv/BrunaScv/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunaScv/BrunaScv/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/BrunaScv/BrunaScv/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" width="100%"/>
-</picture>
-
-</div>
+<p align="center">
+  <i>Cada repositório é uma pequena parte do que estou aprendendo.</i>
+</p>
 
 ---
 
-## ▸ 08. CONNECTION
-
-> *Você encontrou uma maneira de sair do Dark World.*
+### ☾ Meu cantinho no GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-BrunaScv-201A2C?style=for-the-badge&logo=github&logoColor=BCA7FF)](https://github.com/BrunaScv)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=BrunaScv&show_icons=true&hide_border=true&bg_color=17162B&title_color=F28B72&icon_color=E9A8D4&text_color=E8DFF0&ring_color=A99BEF&include_all_commits=true" alt="Estatísticas do GitHub" />
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-brun__ascv-201A2C?style=for-the-badge&logo=instagram&logoColor=C9A4FF)](https://www.instagram.com/brun_ascv/)
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaScv&layout=compact&hide_border=true&bg_color=17162B&title_color=F28B72&text_color=E8DFF0&langs_count=5" alt="Linguagens mais utilizadas" />
 
 <br>
 
-`[ THANK YOU FOR PLAYING ]`
+<img width="70%" src="https://streak-stats.demolab.com?user=BrunaScv&hide_border=true&background=17162B&ring=F28B72&fire=F6BC87&currStreakLabel=E9A8D4&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=A99BEF&dates=9A91AA" alt="Sequência de contribuições" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=51258C" alt=""/>
+<br>
 
-<sub>Bruna de Souza · 2026</sub>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaScv&bg_color=17162B&color=E8DFF0&line=F28B72&point=F6BC87&area=true&area_color=694C78&hide_border=true&custom_title=Minha%20atividade%20por%20aqui" alt="Gráfico de atividade" />
 
-<sub>Made with curiosity, code and a little bit of darkness.</sub>
+</div>
+
+---
+
+### ✦ Conquistas da jornada
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=BrunaScv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Conquistas do GitHub" />
+
+</div>
+
+### ♡ Onde me encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-BrunaScv-17162B?style=flat-square&logo=github&logoColor=F28B72)](https://github.com/BrunaScv)
+[![Instagram](https://img.shields.io/badge/Instagram-@brun__ascv-694C78?style=flat-square&logo=instagram&logoColor=E9A8D4)](https://www.instagram.com/brun_ascv/)
+
+<br>
+
+<sub>✧ Ainda há muito para descobrir. Nos vemos do outro lado do código. ✧</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:17162B,25:694C78,50:F28B72,75:F6BC87,100:A99BEF" width="100%" />
 
 </div>
